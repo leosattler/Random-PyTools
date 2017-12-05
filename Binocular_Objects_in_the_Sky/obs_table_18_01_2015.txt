@@ -1,0 +1,55 @@
+Janelas de Observacao de objetos do catalogo Messier para o dia 18/01/2015, 
+calculadas para um observador no Hemisferio Sul com latitude -22 deg 54 min 10 sec.
+
+M#  Con. RA      DEC     Time of obser. Type
+
+M079 Lep 05:24.2 -24:31  19:59 to 4:00  Globular Cluster
+M042 Ori 05:35.4 -05:27  19:59 to 3:51  Starforming Nebula (with open cluster)
+M043 Ori 05:35.6 -05:16  19:59 to 3:51  Starforming Nebula (with open cluster)
+M078 Ori 05:46.7 +00:03  19:59 to 3:54  Starforming Nebula (with open cluster)
+M041 CMa 06:46.0 -20:44  19:59 to 4:00  Open Cluster
+M050 Mon 07:03.2 -08:20  19:59 to 4:00  Open Cluster
+M047 Pup 07:36.6 -14:30  19:59 to 4:00  Open Cluster
+M046 Pup 07:41.8 -14:49  19:59 to 4:00  Open Cluster
+M093 Pup 07:44.6 -23:52  19:59 to 4:00  Open Cluster
+M048 Hya 08:13.8 -05:48  19:59 to 4:00  Open Cluster
+M044 Cnc 08:40.1 +19:59  19:59 to 4:00  Open Cluster
+M067 Cnc 08:50.4 +11:49  19:59 to 4:00  Open Cluster
+M068 Hya 12:39.5 -26:45  22:04 to 4:00  Globular Cluster
+M053 Com 13:12.9 +18:10  23:55 to 4:00  Globular Cluster
+M005 Ser 15:18.6 +02:05  1:32 to 4:00  Globular Cluster
+M080 Sco 16:17.0 -22:59  1:49 to 4:00  Globular Cluster
+M004 Sco 16:23.6 -26:32  1:47 to 4:00  Globular Cluster
+M107 Oph 16:32.5 -13:03  2:20 to 4:00  Globular Cluster
+M012 Oph 16:47.2 -01:57  2:57 to 4:00  Globular Cluster
+M010 Oph 16:57.1 -04:06  3:00 to 4:00  Globular Cluster
+M062 Oph 17:01.2 -30:07  2:15 to 4:00  Globular Cluster
+M019 Oph 17:02.6 -26:16  2:25 to 4:00  Globular Cluster
+M009 Oph 17:19.2 -18:31  2:58 to 4:00  Globular Cluster
+M014 Oph 17:37.6 -03:15  3:42 to 4:00  Globular Cluster
+M006 Sco 17:40.1 -32:13  2:49 to 4:00  Open Cluster
+M007 Sco 17:53.9 -34:49  2:59 to 4:00  Open Cluster
+M023 Sgr 17:56.8 -19:01  3:33 to 4:00  Open Cluster
+M020 Sgr 18:02.6 -23:02  3:31 to 4:00  Starforming Nebula (with open cluster)
+M008 Sgr 18:03.8 -24:23  3:31 to 4:00  Starforming Nebula (with open cluster)
+M021 Sgr 18:04.6 -22:30  3:36 to 4:00  Open Cluster
+M016 Ser 18:18.8 -13:47  Not observable  Open Cluster
+M018 Sgr 18:19.9 -17:08  Not observable  Open Cluster
+M017 Sgr 18:20.8 -16:11  Not observable  Starforming Nebula (with open cluster)
+M028 Sgr 18:24.5 -24:52  3:52 to 4:00  Globular Cluster
+M069 Sgr 18:31.4 -32:21  3:40 to 4:00  Globular Cluster
+M025 Sgr 18:31.6 -19:15  Not observable  Open Cluster
+M022 Sgr 18:36.4 -23:54  Not observable  Globular Cluster
+M070 Sgr 18:43.2 -32:18  3:52 to 4:00  Globular Cluster
+M026 Sct 18:45.2 -09:24  Not observable  Open Cluster
+M011 Sct 18:51.1 -06:16  Not observable  Open Cluster
+M054 Sgr 18:55.1 -30:29  Not observable  Globular Cluster
+M055 Sgr 19:40.0 -30:58  Not observable  Globular Cluster
+M071 Sge 19:53.8 +18:47  Not observable  Globular Cluster
+M075 Sgr 20:06.1 -21:55  Not observable  Globular Cluster
+M072 Aqr 20:53.5 -12:32  Not observable  Globular Cluster
+M073 Aqr 20:58.9 -12:38  Not observable  System of 4 stars or Asterism
+M015 Peg 21:30.0 +12:10  Not observable  Globular Cluster
+M002 Aqr 21:33.5 -00:49  Not observable  Globular Cluster
+M030 Cap 21:40.4 -23:11  19:59 to 20:30  Globular Cluster
+
